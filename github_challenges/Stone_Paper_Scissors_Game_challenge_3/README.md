@@ -9,7 +9,7 @@ Built with Python, this game features a menu-driven interface, score tracking, a
 
 ## 📸 Demo Video
 
-![Demo GIF](https://raw.githubusercontent.com/im-junaid/Entri/refs/heads/main/github_challenges/challenge_3/game-demo.gif)
+![Demo GIF](game-demo.gif)
 
 ## Features
 
@@ -59,4 +59,8 @@ The game follows classic Stone-Paper-Scissors rules:
 
 **Enjoy the game!** 🎮 If you found this project helpful, please consider giving it a ⭐
 
-*Made with ❤️ by Junaid*
+---
+
+<p align="center">
+  Made with ❤️ by im-junaid
+</p>
